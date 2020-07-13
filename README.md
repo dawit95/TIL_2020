@@ -11,4 +11,4 @@
 
 Python_Server
 
-- [20200712_PythonCrawling](https://github.com/dawit95/TIL/blob/master/python_server/20200712_PythonCrawling.md)
+- [200712_PythonCrawling](https://github.com/dawit95/TIL/blob/master/python_server/200712_PythonCrawling.md)
