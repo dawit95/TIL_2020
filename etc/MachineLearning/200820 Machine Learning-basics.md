@@ -4,7 +4,7 @@
 
   -종속변수 : 다른 자료에 영향을 받아 결과가 정해짐(*모든 상관관계가 인과관계는 아니다)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de8bff4a-eaf6-4d7f-9be9-12c248b18124/machineLearningMap.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de8bff4a-eaf6-4d7f-9be9-12c248b18124/machineLearningMap.jpeg)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de8bff4a-eaf6-4d7f-9be9-12c248b18124/machineLearningMap.jpeg](https://github.com/dawit95/TIL/blob/master/etc/MachineLearning/machineLearningMap.jpeg)
 
 - 지도학습 : 정답이 있는 문제의 답을 찾기위한 학습(보통 과거의 데이터 이용)
 
@@ -20,7 +20,7 @@
 
   -군집화 : 비슷한 것을 찾아서 그룹을 만드는 것(관련행을 찾는것)
 
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d87acbe-b72f-4f8c-835a-77f855f9d24c/clustering.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d87acbe-b72f-4f8c-835a-77f855f9d24c/clustering.jpeg)
+  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d87acbe-b72f-4f8c-835a-77f855f9d24c/clustering.jpeg](https://github.com/dawit95/TIL/blob/master/etc/MachineLearning/clustering.jpeg)
 
   -변환 :
 
@@ -28,6 +28,6 @@
 
 - 강화학습 : 경험으로 답을 찾아가는 것, 더 낳은 결과를 원할때 씀
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e29ebe5-ce34-42fa-90d3-3edb472fd882/reinforcementLearning.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e29ebe5-ce34-42fa-90d3-3edb472fd882/reinforcementLearning.jpeg)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e29ebe5-ce34-42fa-90d3-3edb472fd882/reinforcementLearning.jpeg](https://github.com/dawit95/TIL/blob/master/etc/MachineLearning/reinforcementLearning.jpeg)
 
 강화학습 사례 : https://bit.ly/ml1-reinforcement-list
